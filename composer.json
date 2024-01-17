@@ -12,5 +12,7 @@
             "email": "rick@bakker-it.eu"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
 }
