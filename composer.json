@@ -1,0 +1,16 @@
+{
+    "name": "bakkerit/php-ripedb-api",
+    "description": "Eloquent means to interact with RIPE Database RESTful API",
+    "autoload": {
+        "psr-4": {
+            "Bakkerit\\PhpRipedbApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rick Bakker",
+            "email": "rick@bakker-it.eu"
+        }
+    ],
+    "require": {}
+}
